@@ -169,3 +169,8 @@ while True:
     run_assistant()
 ~~~~
 La ejecución principal comienza con la función `greeting()` para saludar al usuario. Luego entra en un bucle infinito donde la función `run_assistant()` es llamada repetidamente para escuchar y ejecutar los comandos del usuario. El bucle se ejecuta hasta que el usuario dice "adiós".
+
+
+### ⚠️NOTA⚠️
+En el directorio de utilidades hay ficheros funcionales pero que no se han implementado en la aplicación principal.
+Estate alerta de las actualizaciones del repositorio para seber mas
