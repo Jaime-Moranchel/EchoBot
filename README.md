@@ -173,4 +173,4 @@ La ejecución principal comienza con la función `greeting()` para saludar al us
 
 ### ⚠️NOTA⚠️
 En el directorio de utilidades hay ficheros funcionales pero que no se han implementado en la aplicación principal.
-Estate alerta de las actualizaciones del repositorio para seber mas
+Estate alerta de las actualizaciones del repositorio para seber más.
