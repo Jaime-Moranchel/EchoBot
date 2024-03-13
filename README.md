@@ -1,6 +1,6 @@
 # EchoBot
 
-El siguiente código es un programa asistente que utiliza el reconocimiento de voz y la conversión de texto a voz para interactuar con el usuario. Realiza varias tareas basándose en las órdenes del usuario.
+Echobot es un programa asistente que utiliza el reconocimiento de voz y la conversión de texto a voz para interactuar con el usuario. Realiza varias tareas basándose en las órdenes del usuario.
 
 ## Dependencias
 El código requiere la instalación de las siguientes dependencias:
