@@ -11,6 +11,9 @@ El código requiere la instalación de las siguientes dependencias:
 - subprocess
 - psutil
 - pickle
+~~~~
+pip install pyttsx3 SpeechRecognition PyAudio pywhatkit pickle psutil
+~~~~
 
 ## INSTRUCCIONES DE IMPORTACIÓN
 
